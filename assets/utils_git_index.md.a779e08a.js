@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.3d87dfd1.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"front-end/nest/index.md","lastUpdated":1626447583268}',d={};d.render=function(r,d,n,o,a,i){return t(),e("div")};export default d;export{r as __pageData};
