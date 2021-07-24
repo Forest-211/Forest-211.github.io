@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.19d22550.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"front-end/nest/index.md","lastUpdated":1626963704832}',n={};n.render=function(r,n,d,o,a,i){return t(),e("div")};export default n;export{r as __pageData};
