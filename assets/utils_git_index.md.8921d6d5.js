@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.042ff7de.js";const r='{"title":"","description":"","frontmatter":{},"relativePath":"front-end/nest/index.md","lastUpdated":1627124493639}',n={};n.render=function(r,n,d,o,a,i){return t(),e("div")};export default n;export{r as __pageData};
